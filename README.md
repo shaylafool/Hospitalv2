@@ -93,11 +93,11 @@ DELETE FROM administracion;
 
 # ARCHIVOS 
 
-[Archivos del proyecto CRUD](https://github.com/shaylafool/Hospitalv2/tree/main/Hospital-main)
+[Archivos del proyecto CRUD](https://github.com/shaylafool/Hospitalv2/tree/main/crudPacienteMedicamentoV2)
 
 [ARCHIVO JAR](https://github.com/shaylafool/Hospitalv2/blob/main/HOSPITAL-CRUD.jar)
 
-[ARCHIVO ZIP](https://github.com/shaylafool/Hospitalv2/blob/main/Hospital-main.zip)
+[ARCHIVO ZIP](https://github.com/shaylafool/Hospitalv2/blob/main/CRUD-HOSPITAL.zip)
 
 
 # VERSIONES
@@ -110,7 +110,7 @@ DELETE FROM administracion;
 
 IDE: [ECLIPSE](https://eclipseide.org/)
  
-LIBRERIA: [postgresql-42.7.8.jar](https://github.com/shaylafool/Hospitalv2/tree/main/Hospital-main/lib)
+LIBRERIA: [postgresql-42.7.8.jar](https://github.com/shaylafool/Hospitalv2/tree/main/crudPacienteMedicamentoV2/lib)
 
 #PREVIEW
 
