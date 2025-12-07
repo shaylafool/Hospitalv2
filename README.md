@@ -128,6 +128,9 @@ la contraseña del proyecto de postgreSQL en el jar , debe ser " 12345 " ademas 
 
 [Creacion de la tablas](https://pastebin.com/raw/JASP3y4L)
 
+## 📊 Metodología de Desarrollo
+Proyecto desarrollado utilizando **SCRUM** con sprints de una semana cada uno.
+
 
 
 
