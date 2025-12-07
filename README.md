@@ -112,13 +112,21 @@ IDE: [ECLIPSE](https://eclipseide.org/)
  
 LIBRERIA: [postgresql-42.7.8.jar](https://github.com/shaylafool/Hospitalv2/tree/main/crudPacienteMedicamentoV2/lib)
 
-#PREVIEW
+SQL: [PostgreSQL](https://www.postgresql.org/)
+
+# PREVIEW
 
 <img src="https://i.postimg.cc/Wzjs9xJ5/MENU.png" alt="consola" width="1000" height="500">
 <img src="https://i.postimg.cc/C1CgfJ68/2.png" alt="consola" width="1000" height="500">
 <img src="https://i.postimg.cc/mZw4LXHw/34.png" alt="consola" width="500" height="600">
 
+# Creas tablas en postgreSQL 
 
+aqui un breve tutorial para la creacion de las tablas y la base de datos en postgre
+
+la contraseña del proyecto de postgreSQL en el jar , debe ser " 12345 " ademas de tener el usuario por defecto de postgreSQL
+
+[Creacion de la tablas](https://pastebin.com/raw/JASP3y4L)
 
 
 
