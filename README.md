@@ -120,7 +120,7 @@ SQL: [PostgreSQL](https://www.postgresql.org/)
 <img src="https://i.postimg.cc/C1CgfJ68/2.png" alt="consola" width="1000" height="500">
 <img src="https://i.postimg.cc/mZw4LXHw/34.png" alt="consola" width="500" height="600">
 
-# Creas tablas en postgreSQL 
+# Creacion de las tablas en postgreSQL 
 
 aqui un breve tutorial para la creacion de las tablas y la base de datos en postgre
 
